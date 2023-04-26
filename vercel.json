@@ -4,6 +4,7 @@
       "src": "nuxt.config.js",
       "use": "@nuxtjs/vercel-builder",
       "config": {}
+      "openssl-target": "1.1.1"
     }
   ]
 }
